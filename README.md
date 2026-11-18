@@ -1,5 +1,7 @@
 # HubSpot Attachment Auditor & File Scanner
 
+[![CI](https://github.com/smartprov05/hubspot-attachment-auditor/actions/workflows/ci.yml/badge.svg)](https://github.com/smartprov05/hubspot-attachment-auditor/actions/workflows/ci.yml)
+
 A free, open-source script to audit files attached to HubSpot CRM emails, notes, calls, meetings, and tickets before CRM migrations or compliance audits.
 
 ---
